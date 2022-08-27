@@ -97,7 +97,7 @@ Please also see [test/advanced/helmfile.yaml](https://github.com/roboll/helmfile
 
 ### Adhoc Kustomization of Helm charts
 
-With Helmfile's integration with Helmfile, not only deploying Kustomization as a Helm chart, you can kustomize charts before installation.
+With Helmfile's integration with Kustomize, not only deploying Kustomization as a Helm chart, you can kustomize charts before installation.
 
 Currently, Helmfile allows you to set the following fields for kustomizing the chart:
 
